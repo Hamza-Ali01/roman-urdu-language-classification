@@ -11,20 +11,14 @@ from sklearn.metrics import (
 
 import matplotlib.pyplot as plt
 
-
-# ==============================
 # 1. Load Dataset
-# ==============================
 
 df = pd.read_csv("dataset.csv")
 
 print("Dataset loaded successfully!")
 print("Total rows:", len(df))
 
-
-# ==============================
 # 2. Load Saved Model & Vectorizer
-# ==============================
 
 model = joblib.load("model.pkl")
 vectorizer = joblib.load("vectorizer.pkl")
@@ -48,38 +42,26 @@ X_train, X_test, y_train, y_test = train_test_split(
     stratify=y
 )
 
-
-# ==============================
 # 4. Convert Test Data to TF-IDF
-# ==============================
 
 X_test_tfidf = vectorizer.transform(X_test)
 
-
-# ==============================
 # 5. Prediction
-# ==============================
 
 y_pred = model.predict(X_test_tfidf)
 
-
-# ==============================
 # 6. Accuracy
-# ==============================
 
 accuracy = accuracy_score(y_test, y_pred)
 
-print("\n==============================")
+print("\n======")
 print("MODEL EVALUATION")
-print("==============================")
+print("======")
 
 print(f"Accuracy: {accuracy:.4f}")
 print(f"Accuracy Percentage: {accuracy * 100:.2f}%")
 
-
-# ==============================
 # 7. Classification Report
-# ==============================
 
 print("\nClassification Report:")
 
@@ -91,10 +73,7 @@ print(
     )
 )
 
-
-# ==============================
 # 8. Confusion Matrix
-# ==============================
 
 cm = confusion_matrix(
     y_test,
@@ -105,10 +84,7 @@ cm = confusion_matrix(
 print("\nConfusion Matrix:")
 print(cm)
 
-
-# ==============================
 # 9. Display Confusion Matrix
-# ==============================
 
 display = ConfusionMatrixDisplay(
     confusion_matrix=cm,
