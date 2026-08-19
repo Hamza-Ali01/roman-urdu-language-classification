@@ -26,10 +26,7 @@ vectorizer = joblib.load("vectorizer.pkl")
 print("Model loaded successfully!")
 print("Vectorizer loaded successfully!")
 
-
-# ==============================
 # 3. Same Train/Test Split
-# ==============================
 
 X = df["Word"]
 y = df["Label"]
