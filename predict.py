@@ -1,26 +1,20 @@
 import joblib
 
-
-# ==============================
 # Load Model & Vectorizer
-# ==============================
 
 model = joblib.load("model.pkl")
 vectorizer = joblib.load("vectorizer.pkl")
 
 
-print("\n========================================")
+print("\n====")
 print(" Roman Urdu Language Classifier")
-print("========================================")
+print("====")
 print("Model loaded successfully!")
 print("Enter a sentence to classify each word.")
 print("Type 'exit' to close the program.")
-print("========================================\n")
+print("====\n")
 
-
-# ==============================
 # Prediction Function
-# ==============================
 
 def predict_sentence(sentence):
 
@@ -30,9 +24,9 @@ def predict_sentence(sentence):
         print("Please enter a sentence.")
         return
 
-    print("\n----------------------------------------")
+    print("\n--")
     print("Prediction Result")
-    print("----------------------------------------")
+    print("--")
 
     for word in words:
 
@@ -50,12 +44,9 @@ def predict_sentence(sentence):
 
         print(f"{clean_word:<15} -> {prediction}")
 
-    print("----------------------------------------")
+    print("--")
 
-
-# ==============================
 # Main Program
-# ==============================
 
 while True:
 
