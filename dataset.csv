@@ -1,0 +1,1405 @@
+Sentence_ID,Sentence,Word,Label
+1,us ne apni phone achi tarah prepare ki,us,URD
+1,us ne apni phone achi tarah prepare ki,ne,URD
+1,us ne apni phone achi tarah prepare ki,apni,URD
+1,us ne apni phone achi tarah prepare ki,phone,MIX
+1,us ne apni phone achi tarah prepare ki,achi,URD
+1,us ne apni phone achi tarah prepare ki,tarah,URD
+1,us ne apni phone achi tarah prepare ki,prepare,ENG
+1,us ne apni phone achi tarah prepare ki,ki,URD
+2,hamare professor ne result explain kiya,hamare,URD
+2,hamare professor ne result explain kiya,professor,ENG
+2,hamare professor ne result explain kiya,ne,URD
+2,hamare professor ne result explain kiya,result,ENG
+2,hamare professor ne result explain kiya,explain,ENG
+2,hamare professor ne result explain kiya,kiya,URD
+3,kal hamari share ki class hai,kal,URD
+3,kal hamari share ki class hai,hamari,URD
+3,kal hamari share ki class hai,share,MIX
+3,kal hamari share ki class hai,ki,URD
+3,kal hamari share ki class hai,class,MIX
+3,kal hamari share ki class hai,hai,URD
+4,hum daily life mein bohat skill use karte hain,hum,URD
+4,hum daily life mein bohat skill use karte hain,daily,ENG
+4,hum daily life mein bohat skill use karte hain,life,ENG
+4,hum daily life mein bohat skill use karte hain,mein,URD
+4,hum daily life mein bohat skill use karte hain,bohat,URD
+4,hum daily life mein bohat skill use karte hain,skill,ENG
+4,hum daily life mein bohat skill use karte hain,use,ENG
+4,hum daily life mein bohat skill use karte hain,karte,URD
+4,hum daily life mein bohat skill use karte hain,hain,URD
+5,hum daily life mein bohat surprise use karte hain,hum,URD
+5,hum daily life mein bohat surprise use karte hain,daily,ENG
+5,hum daily life mein bohat surprise use karte hain,life,ENG
+5,hum daily life mein bohat surprise use karte hain,mein,URD
+5,hum daily life mein bohat surprise use karte hain,bohat,URD
+5,hum daily life mein bohat surprise use karte hain,surprise,MIX
+5,hum daily life mein bohat surprise use karte hain,use,ENG
+5,hum daily life mein bohat surprise use karte hain,karte,URD
+5,hum daily life mein bohat surprise use karte hain,hain,URD
+6,yeh coding bohat accha hai,yeh,URD
+6,yeh coding bohat accha hai,coding,ENG
+6,yeh coding bohat accha hai,bohat,URD
+6,yeh coding bohat accha hai,accha,URD
+6,yeh coding bohat accha hai,hai,URD
+7,hum daily life mein bohat interview use karte hain,hum,URD
+7,hum daily life mein bohat interview use karte hain,daily,ENG
+7,hum daily life mein bohat interview use karte hain,life,ENG
+7,hum daily life mein bohat interview use karte hain,mein,URD
+7,hum daily life mein bohat interview use karte hain,bohat,URD
+7,hum daily life mein bohat interview use karte hain,interview,ENG
+7,hum daily life mein bohat interview use karte hain,use,ENG
+7,hum daily life mein bohat interview use karte hain,karte,URD
+7,hum daily life mein bohat interview use karte hain,hain,URD
+8,yeh machine mujhe samajh nahi aa raha,yeh,URD
+8,yeh machine mujhe samajh nahi aa raha,machine,ENG
+8,yeh machine mujhe samajh nahi aa raha,mujhe,URD
+8,yeh machine mujhe samajh nahi aa raha,samajh,URD
+8,yeh machine mujhe samajh nahi aa raha,nahi,URD
+8,yeh machine mujhe samajh nahi aa raha,aa,URD
+8,yeh machine mujhe samajh nahi aa raha,raha,URD
+9,kya aap mujhe application ke baare mein bata saktay hain,kya,URD
+9,kya aap mujhe application ke baare mein bata saktay hain,aap,URD
+9,kya aap mujhe application ke baare mein bata saktay hain,mujhe,URD
+9,kya aap mujhe application ke baare mein bata saktay hain,application,ENG
+9,kya aap mujhe application ke baare mein bata saktay hain,ke,URD
+9,kya aap mujhe application ke baare mein bata saktay hain,baare,URD
+9,kya aap mujhe application ke baare mein bata saktay hain,mein,URD
+9,kya aap mujhe application ke baare mein bata saktay hain,bata,URD
+9,kya aap mujhe application ke baare mein bata saktay hain,saktay,URD
+9,kya aap mujhe application ke baare mein bata saktay hain,hain,URD
+10,main roz scholarship check karta hoon,main,URD
+10,main roz scholarship check karta hoon,roz,URD
+10,main roz scholarship check karta hoon,scholarship,ENG
+10,main roz scholarship check karta hoon,check,MIX
+10,main roz scholarship check karta hoon,karta,URD
+10,main roz scholarship check karta hoon,hoon,URD
+11,kal hamari online ki class hai,kal,URD
+11,kal hamari online ki class hai,hamari,URD
+11,kal hamari online ki class hai,online,ENG
+11,kal hamari online ki class hai,ki,URD
+11,kal hamari online ki class hai,class,MIX
+11,kal hamari online ki class hai,hai,URD
+12,is bill ka price bohat zyada hai,is,URD
+12,is bill ka price bohat zyada hai,bill,MIX
+12,is bill ka price bohat zyada hai,ka,URD
+12,is bill ka price bohat zyada hai,price,ENG
+12,is bill ka price bohat zyada hai,bohat,URD
+12,is bill ka price bohat zyada hai,zyada,URD
+12,is bill ka price bohat zyada hai,hai,URD
+13,aap ne yeh function kaise kiya,aap,URD
+13,aap ne yeh function kaise kiya,ne,URD
+13,aap ne yeh function kaise kiya,yeh,URD
+13,aap ne yeh function kaise kiya,function,ENG
+13,aap ne yeh function kaise kiya,kaise,URD
+13,aap ne yeh function kaise kiya,kiya,URD
+14,main internship mein developer sikh raha hoon,main,URD
+14,main internship mein developer sikh raha hoon,internship,ENG
+14,main internship mein developer sikh raha hoon,mein,URD
+14,main internship mein developer sikh raha hoon,developer,ENG
+14,main internship mein developer sikh raha hoon,sikh,URD
+14,main internship mein developer sikh raha hoon,raha,URD
+14,main internship mein developer sikh raha hoon,hoon,URD
+15,hum daily life mein bohat product use karte hain,hum,URD
+15,hum daily life mein bohat product use karte hain,daily,ENG
+15,hum daily life mein bohat product use karte hain,life,ENG
+15,hum daily life mein bohat product use karte hain,mein,URD
+15,hum daily life mein bohat product use karte hain,bohat,URD
+15,hum daily life mein bohat product use karte hain,product,ENG
+15,hum daily life mein bohat product use karte hain,use,ENG
+15,hum daily life mein bohat product use karte hain,karte,URD
+15,hum daily life mein bohat product use karte hain,hain,URD
+16,mujhe email pasand hai,mujhe,URD
+16,mujhe email pasand hai,email,ENG
+16,mujhe email pasand hai,pasand,URD
+16,mujhe email pasand hai,hai,URD
+17,mujhe is back ki zaroorat hai,mujhe,URD
+17,mujhe is back ki zaroorat hai,is,URD
+17,mujhe is back ki zaroorat hai,back,MIX
+17,mujhe is back ki zaroorat hai,ki,URD
+17,mujhe is back ki zaroorat hai,zaroorat,URD
+17,mujhe is back ki zaroorat hai,hai,URD
+18,mujhe shopping karte waqt achi point mili,mujhe,URD
+18,mujhe shopping karte waqt achi point mili,shopping,ENG
+18,mujhe shopping karte waqt achi point mili,karte,URD
+18,mujhe shopping karte waqt achi point mili,waqt,URD
+18,mujhe shopping karte waqt achi point mili,achi,URD
+18,mujhe shopping karte waqt achi point mili,point,MIX
+18,mujhe shopping karte waqt achi point mili,mili,URD
+19,yeh computer bohat accha hai,yeh,URD
+19,yeh computer bohat accha hai,computer,ENG
+19,yeh computer bohat accha hai,bohat,URD
+19,yeh computer bohat accha hai,accha,URD
+19,yeh computer bohat accha hai,hai,URD
+20,mujhe mobile pasand hai,mujhe,URD
+20,mujhe mobile pasand hai,mobile,MIX
+20,mujhe mobile pasand hai,pasand,URD
+20,mujhe mobile pasand hai,hai,URD
+21,us ne apni model achi tarah prepare ki,us,URD
+21,us ne apni model achi tarah prepare ki,ne,URD
+21,us ne apni model achi tarah prepare ki,apni,URD
+21,us ne apni model achi tarah prepare ki,model,ENG
+21,us ne apni model achi tarah prepare ki,achi,URD
+21,us ne apni model achi tarah prepare ki,tarah,URD
+21,us ne apni model achi tarah prepare ki,prepare,ENG
+21,us ne apni model achi tarah prepare ki,ki,URD
+22,hamari university mein naya degree shuru hua hai,hamari,URD
+22,hamari university mein naya degree shuru hua hai,university,ENG
+22,hamari university mein naya degree shuru hua hai,mein,URD
+22,hamari university mein naya degree shuru hua hai,naya,URD
+22,hamari university mein naya degree shuru hua hai,degree,ENG
+22,hamari university mein naya degree shuru hua hai,shuru,URD
+22,hamari university mein naya degree shuru hua hai,hua,URD
+22,hamari university mein naya degree shuru hua hai,hai,URD
+23,kal hamari laptop ki class hai,kal,URD
+23,kal hamari laptop ki class hai,hamari,URD
+23,kal hamari laptop ki class hai,laptop,ENG
+23,kal hamari laptop ki class hai,ki,URD
+23,kal hamari laptop ki class hai,class,MIX
+23,kal hamari laptop ki class hai,hai,URD
+24,is software mein bohat masla hai,is,URD
+24,is software mein bohat masla hai,software,ENG
+24,is software mein bohat masla hai,mein,URD
+24,is software mein bohat masla hai,bohat,URD
+24,is software mein bohat masla hai,masla,URD
+24,is software mein bohat masla hai,hai,URD
+25,hum aaj server submit karenge,hum,URD
+25,hum aaj server submit karenge,aaj,URD
+25,hum aaj server submit karenge,server,ENG
+25,hum aaj server submit karenge,submit,ENG
+25,hum aaj server submit karenge,karenge,URD
+26,us ne apni cloud achi tarah prepare ki,us,URD
+26,us ne apni cloud achi tarah prepare ki,ne,URD
+26,us ne apni cloud achi tarah prepare ki,apni,URD
+26,us ne apni cloud achi tarah prepare ki,cloud,ENG
+26,us ne apni cloud achi tarah prepare ki,achi,URD
+26,us ne apni cloud achi tarah prepare ki,tarah,URD
+26,us ne apni cloud achi tarah prepare ki,prepare,ENG
+26,us ne apni cloud achi tarah prepare ki,ki,URD
+27,hum daily life mein bohat delivery use karte hain,hum,URD
+27,hum daily life mein bohat delivery use karte hain,daily,ENG
+27,hum daily life mein bohat delivery use karte hain,life,ENG
+27,hum daily life mein bohat delivery use karte hain,mein,URD
+27,hum daily life mein bohat delivery use karte hain,bohat,URD
+27,hum daily life mein bohat delivery use karte hain,delivery,ENG
+27,hum daily life mein bohat delivery use karte hain,use,ENG
+27,hum daily life mein bohat delivery use karte hain,karte,URD
+27,hum daily life mein bohat delivery use karte hain,hain,URD
+28,kal hamari artificial ki class hai,kal,URD
+28,kal hamari artificial ki class hai,hamari,URD
+28,kal hamari artificial ki class hai,artificial,ENG
+28,kal hamari artificial ki class hai,ki,URD
+28,kal hamari artificial ki class hai,class,MIX
+28,kal hamari artificial ki class hai,hai,URD
+29,main machine kar raha hoon,main,URD
+29,main machine kar raha hoon,machine,ENG
+29,main machine kar raha hoon,kar,URD
+29,main machine kar raha hoon,raha,URD
+29,main machine kar raha hoon,hoon,URD
+30,meri deployment kal submit hogi,meri,URD
+30,meri deployment kal submit hogi,deployment,ENG
+30,meri deployment kal submit hogi,kal,URD
+30,meri deployment kal submit hogi,submit,ENG
+30,meri deployment kal submit hogi,hogi,URD
+31,hamari team ne campus successfully complete kar liya,hamari,URD
+31,hamari team ne campus successfully complete kar liya,team,ENG
+31,hamari team ne campus successfully complete kar liya,ne,URD
+31,hamari team ne campus successfully complete kar liya,campus,ENG
+31,hamari team ne campus successfully complete kar liya,successfully,ENG
+31,hamari team ne campus successfully complete kar liya,complete,ENG
+31,hamari team ne campus successfully complete kar liya,kar,URD
+31,hamari team ne campus successfully complete kar liya,liya,URD
+32,hamari university mein naya error shuru hua hai,hamari,URD
+32,hamari university mein naya error shuru hua hai,university,ENG
+32,hamari university mein naya error shuru hua hai,mein,URD
+32,hamari university mein naya error shuru hua hai,naya,URD
+32,hamari university mein naya error shuru hua hai,error,ENG
+32,hamari university mein naya error shuru hua hai,shuru,URD
+32,hamari university mein naya error shuru hua hai,hua,URD
+32,hamari university mein naya error shuru hua hai,hai,URD
+33,main Google kar raha hoon,main,URD
+33,main Google kar raha hoon,Google,ENG
+33,main Google kar raha hoon,kar,URD
+33,main Google kar raha hoon,raha,URD
+33,main Google kar raha hoon,hoon,URD
+34,us ne apni share achi tarah prepare ki,us,URD
+34,us ne apni share achi tarah prepare ki,ne,URD
+34,us ne apni share achi tarah prepare ki,apni,URD
+34,us ne apni share achi tarah prepare ki,share,MIX
+34,us ne apni share achi tarah prepare ki,achi,URD
+34,us ne apni share achi tarah prepare ki,tarah,URD
+34,us ne apni share achi tarah prepare ki,prepare,ENG
+34,us ne apni share achi tarah prepare ki,ki,URD
+35,hamari team ne chat successfully complete kar liya,hamari,URD
+35,hamari team ne chat successfully complete kar liya,team,ENG
+35,hamari team ne chat successfully complete kar liya,ne,URD
+35,hamari team ne chat successfully complete kar liya,chat,MIX
+35,hamari team ne chat successfully complete kar liya,successfully,ENG
+35,hamari team ne chat successfully complete kar liya,complete,ENG
+35,hamari team ne chat successfully complete kar liya,kar,URD
+35,hamari team ne chat successfully complete kar liya,liya,URD
+36,yeh profile mujhe samajh nahi aa raha,yeh,URD
+36,yeh profile mujhe samajh nahi aa raha,profile,ENG
+36,yeh profile mujhe samajh nahi aa raha,mujhe,URD
+36,yeh profile mujhe samajh nahi aa raha,samajh,URD
+36,yeh profile mujhe samajh nahi aa raha,nahi,URD
+36,yeh profile mujhe samajh nahi aa raha,aa,URD
+36,yeh profile mujhe samajh nahi aa raha,raha,URD
+37,hum daily life mein bohat chat use karte hain,hum,URD
+37,hum daily life mein bohat chat use karte hain,daily,ENG
+37,hum daily life mein bohat chat use karte hain,life,ENG
+37,hum daily life mein bohat chat use karte hain,mein,URD
+37,hum daily life mein bohat chat use karte hain,bohat,URD
+37,hum daily life mein bohat chat use karte hain,chat,MIX
+37,hum daily life mein bohat chat use karte hain,use,ENG
+37,hum daily life mein bohat chat use karte hain,karte,URD
+37,hum daily life mein bohat chat use karte hain,hain,URD
+38,main roz machine check karta hoon,main,URD
+38,main roz machine check karta hoon,roz,URD
+38,main roz machine check karta hoon,machine,ENG
+38,main roz machine check karta hoon,check,MIX
+38,main roz machine check karta hoon,karta,URD
+38,main roz machine check karta hoon,hoon,URD
+39,mujhe shopping karte waqt achi scholarship mili,mujhe,URD
+39,mujhe shopping karte waqt achi scholarship mili,shopping,ENG
+39,mujhe shopping karte waqt achi scholarship mili,karte,URD
+39,mujhe shopping karte waqt achi scholarship mili,waqt,URD
+39,mujhe shopping karte waqt achi scholarship mili,achi,URD
+39,mujhe shopping karte waqt achi scholarship mili,scholarship,ENG
+39,mujhe shopping karte waqt achi scholarship mili,mili,URD
+40,is semester mein naya testing add hua hai,is,URD
+40,is semester mein naya testing add hua hai,semester,ENG
+40,is semester mein naya testing add hua hai,mein,URD
+40,is semester mein naya testing add hua hai,naya,URD
+40,is semester mein naya testing add hua hai,testing,ENG
+40,is semester mein naya testing add hua hai,add,ENG
+40,is semester mein naya testing add hua hai,hua,URD
+40,is semester mein naya testing add hua hai,hai,URD
+41,mujhe team samajhne mein waqt laga,mujhe,URD
+41,mujhe team samajhne mein waqt laga,team,ENG
+41,mujhe team samajhne mein waqt laga,samajhne,URD
+41,mujhe team samajhne mein waqt laga,mein,URD
+41,mujhe team samajhne mein waqt laga,waqt,URD
+41,mujhe team samajhne mein waqt laga,laga,URD
+42,yeh delivery mujhe samajh nahi aa raha,yeh,URD
+42,yeh delivery mujhe samajh nahi aa raha,delivery,ENG
+42,yeh delivery mujhe samajh nahi aa raha,mujhe,URD
+42,yeh delivery mujhe samajh nahi aa raha,samajh,URD
+42,yeh delivery mujhe samajh nahi aa raha,nahi,URD
+42,yeh delivery mujhe samajh nahi aa raha,aa,URD
+42,yeh delivery mujhe samajh nahi aa raha,raha,URD
+43,hum aaj page submit karenge,hum,URD
+43,hum aaj page submit karenge,aaj,URD
+43,hum aaj page submit karenge,page,MIX
+43,hum aaj page submit karenge,submit,ENG
+43,hum aaj page submit karenge,karenge,URD
+44,hum office mein report discuss kar rahe hain,hum,URD
+44,hum office mein report discuss kar rahe hain,office,ENG
+44,hum office mein report discuss kar rahe hain,mein,URD
+44,hum office mein report discuss kar rahe hain,report,ENG
+44,hum office mein report discuss kar rahe hain,discuss,ENG
+44,hum office mein report discuss kar rahe hain,kar,URD
+44,hum office mein report discuss kar rahe hain,rahe,URD
+44,hum office mein report discuss kar rahe hain,hain,URD
+45,aaj ka assignment discount pe base hai,aaj,URD
+45,aaj ka assignment discount pe base hai,ka,URD
+45,aaj ka assignment discount pe base hai,assignment,ENG
+45,aaj ka assignment discount pe base hai,discount,ENG
+45,aaj ka assignment discount pe base hai,pe,URD
+45,aaj ka assignment discount pe base hai,base,ENG
+45,aaj ka assignment discount pe base hai,hai,URD
+46,us ne apni product achi tarah prepare ki,us,URD
+46,us ne apni product achi tarah prepare ki,ne,URD
+46,us ne apni product achi tarah prepare ki,apni,URD
+46,us ne apni product achi tarah prepare ki,product,ENG
+46,us ne apni product achi tarah prepare ki,achi,URD
+46,us ne apni product achi tarah prepare ki,tarah,URD
+46,us ne apni product achi tarah prepare ki,prepare,ENG
+46,us ne apni product achi tarah prepare ki,ki,URD
+47,us ne apni idea achi tarah prepare ki,us,URD
+47,us ne apni idea achi tarah prepare ki,ne,URD
+47,us ne apni idea achi tarah prepare ki,apni,URD
+47,us ne apni idea achi tarah prepare ki,idea,MIX
+47,us ne apni idea achi tarah prepare ki,achi,URD
+47,us ne apni idea achi tarah prepare ki,tarah,URD
+47,us ne apni idea achi tarah prepare ki,prepare,ENG
+47,us ne apni idea achi tarah prepare ki,ki,URD
+48,aaj ka assignment professor pe base hai,aaj,URD
+48,aaj ka assignment professor pe base hai,ka,URD
+48,aaj ka assignment professor pe base hai,assignment,ENG
+48,aaj ka assignment professor pe base hai,professor,ENG
+48,aaj ka assignment professor pe base hai,pe,URD
+48,aaj ka assignment professor pe base hai,base,ENG
+48,aaj ka assignment professor pe base hai,hai,URD
+49,us ne apni free achi tarah prepare ki,us,URD
+49,us ne apni free achi tarah prepare ki,ne,URD
+49,us ne apni free achi tarah prepare ki,apni,URD
+49,us ne apni free achi tarah prepare ki,free,MIX
+49,us ne apni free achi tarah prepare ki,achi,URD
+49,us ne apni free achi tarah prepare ki,tarah,URD
+49,us ne apni free achi tarah prepare ki,prepare,ENG
+49,us ne apni free achi tarah prepare ki,ki,URD
+50,main roz experience check karta hoon,main,URD
+50,main roz experience check karta hoon,roz,URD
+50,main roz experience check karta hoon,experience,ENG
+50,main roz experience check karta hoon,check,MIX
+50,main roz experience check karta hoon,karta,URD
+50,main roz experience check karta hoon,hoon,URD
+51,yeh model bohat accha hai,yeh,URD
+51,yeh model bohat accha hai,model,ENG
+51,yeh model bohat accha hai,bohat,URD
+51,yeh model bohat accha hai,accha,URD
+51,yeh model bohat accha hai,hai,URD
+52,humein bank ke liye zyada waqt chahiye,humein,URD
+52,humein bank ke liye zyada waqt chahiye,bank,MIX
+52,humein bank ke liye zyada waqt chahiye,ke,URD
+52,humein bank ke liye zyada waqt chahiye,liye,URD
+52,humein bank ke liye zyada waqt chahiye,zyada,URD
+52,humein bank ke liye zyada waqt chahiye,waqt,URD
+52,humein bank ke liye zyada waqt chahiye,chahiye,URD
+53,humein light ke liye zyada waqt chahiye,humein,URD
+53,humein light ke liye zyada waqt chahiye,light,MIX
+53,humein light ke liye zyada waqt chahiye,ke,URD
+53,humein light ke liye zyada waqt chahiye,liye,URD
+53,humein light ke liye zyada waqt chahiye,zyada,URD
+53,humein light ke liye zyada waqt chahiye,waqt,URD
+53,humein light ke liye zyada waqt chahiye,chahiye,URD
+54,aaj ka assignment Facebook pe base hai,aaj,URD
+54,aaj ka assignment Facebook pe base hai,ka,URD
+54,aaj ka assignment Facebook pe base hai,assignment,ENG
+54,aaj ka assignment Facebook pe base hai,Facebook,ENG
+54,aaj ka assignment Facebook pe base hai,pe,URD
+54,aaj ka assignment Facebook pe base hai,base,ENG
+54,aaj ka assignment Facebook pe base hai,hai,URD
+55,mera team mukammal ho gaya hai,mera,URD
+55,mera team mukammal ho gaya hai,team,ENG
+55,mera team mukammal ho gaya hai,mukammal,URD
+55,mera team mukammal ho gaya hai,ho,URD
+55,mera team mukammal ho gaya hai,gaya,URD
+55,mera team mukammal ho gaya hai,hai,URD
+56,kal hamari Google ki class hai,kal,URD
+56,kal hamari Google ki class hai,hamari,URD
+56,kal hamari Google ki class hai,Google,ENG
+56,kal hamari Google ki class hai,ki,URD
+56,kal hamari Google ki class hai,class,MIX
+56,kal hamari Google ki class hai,hai,URD
+57,us ne apni server achi tarah prepare ki,us,URD
+57,us ne apni server achi tarah prepare ki,ne,URD
+57,us ne apni server achi tarah prepare ki,apni,URD
+57,us ne apni server achi tarah prepare ki,server,ENG
+57,us ne apni server achi tarah prepare ki,achi,URD
+57,us ne apni server achi tarah prepare ki,tarah,URD
+57,us ne apni server achi tarah prepare ki,prepare,ENG
+57,us ne apni server achi tarah prepare ki,ki,URD
+58,hamare professor ne application explain kiya,hamare,URD
+58,hamare professor ne application explain kiya,professor,ENG
+58,hamare professor ne application explain kiya,ne,URD
+58,hamare professor ne application explain kiya,application,ENG
+58,hamare professor ne application explain kiya,explain,ENG
+58,hamare professor ne application explain kiya,kiya,URD
+59,hamare boss ne feature ke baare mein email bheja,hamare,URD
+59,hamare boss ne feature ke baare mein email bheja,boss,ENG
+59,hamare boss ne feature ke baare mein email bheja,ne,URD
+59,hamare boss ne feature ke baare mein email bheja,feature,ENG
+59,hamare boss ne feature ke baare mein email bheja,ke,URD
+59,hamare boss ne feature ke baare mein email bheja,baare,URD
+59,hamare boss ne feature ke baare mein email bheja,mein,URD
+59,hamare boss ne feature ke baare mein email bheja,email,ENG
+59,hamare boss ne feature ke baare mein email bheja,bheja,URD
+60,hamari team ne plan successfully complete kar liya,hamari,URD
+60,hamari team ne plan successfully complete kar liya,team,ENG
+60,hamari team ne plan successfully complete kar liya,ne,URD
+60,hamari team ne plan successfully complete kar liya,plan,MIX
+60,hamari team ne plan successfully complete kar liya,successfully,ENG
+60,hamari team ne plan successfully complete kar liya,complete,ENG
+60,hamari team ne plan successfully complete kar liya,kar,URD
+60,hamari team ne plan successfully complete kar liya,liya,URD
+61,kya aap mujhe product ke baare mein bata saktay hain,kya,URD
+61,kya aap mujhe product ke baare mein bata saktay hain,aap,URD
+61,kya aap mujhe product ke baare mein bata saktay hain,mujhe,URD
+61,kya aap mujhe product ke baare mein bata saktay hain,product,ENG
+61,kya aap mujhe product ke baare mein bata saktay hain,ke,URD
+61,kya aap mujhe product ke baare mein bata saktay hain,baare,URD
+61,kya aap mujhe product ke baare mein bata saktay hain,mein,URD
+61,kya aap mujhe product ke baare mein bata saktay hain,bata,URD
+61,kya aap mujhe product ke baare mein bata saktay hain,saktay,URD
+61,kya aap mujhe product ke baare mein bata saktay hain,hain,URD
+62,mera profile mukammal ho gaya hai,mera,URD
+62,mera profile mukammal ho gaya hai,profile,ENG
+62,mera profile mukammal ho gaya hai,mukammal,URD
+62,mera profile mukammal ho gaya hai,ho,URD
+62,mera profile mukammal ho gaya hai,gaya,URD
+62,mera profile mukammal ho gaya hai,hai,URD
+63,is semester mein naya login add hua hai,is,URD
+63,is semester mein naya login add hua hai,semester,ENG
+63,is semester mein naya login add hua hai,mein,URD
+63,is semester mein naya login add hua hai,naya,URD
+63,is semester mein naya login add hua hai,login,ENG
+63,is semester mein naya login add hua hai,add,ENG
+63,is semester mein naya login add hua hai,hua,URD
+63,is semester mein naya login add hua hai,hai,URD
+64,main roz website check karta hoon,main,URD
+64,main roz website check karta hoon,roz,URD
+64,main roz website check karta hoon,website,ENG
+64,main roz website check karta hoon,check,MIX
+64,main roz website check karta hoon,karta,URD
+64,main roz website check karta hoon,hoon,URD
+65,is developer ka price bohat zyada hai,is,URD
+65,is developer ka price bohat zyada hai,developer,ENG
+65,is developer ka price bohat zyada hai,ka,URD
+65,is developer ka price bohat zyada hai,price,ENG
+65,is developer ka price bohat zyada hai,bohat,URD
+65,is developer ka price bohat zyada hai,zyada,URD
+65,is developer ka price bohat zyada hai,hai,URD
+66,hum aaj developer submit karenge,hum,URD
+66,hum aaj developer submit karenge,aaj,URD
+66,hum aaj developer submit karenge,developer,ENG
+66,hum aaj developer submit karenge,submit,ENG
+66,hum aaj developer submit karenge,karenge,URD
+67,hamare boss ne page ke baare mein email bheja,hamare,URD
+67,hamare boss ne page ke baare mein email bheja,boss,ENG
+67,hamare boss ne page ke baare mein email bheja,ne,URD
+67,hamare boss ne page ke baare mein email bheja,page,MIX
+67,hamare boss ne page ke baare mein email bheja,ke,URD
+67,hamare boss ne page ke baare mein email bheja,baare,URD
+67,hamare boss ne page ke baare mein email bheja,mein,URD
+67,hamare boss ne page ke baare mein email bheja,email,ENG
+67,hamare boss ne page ke baare mein email bheja,bheja,URD
+68,hum daily life mein bohat laptop use karte hain,hum,URD
+68,hum daily life mein bohat laptop use karte hain,daily,ENG
+68,hum daily life mein bohat laptop use karte hain,life,ENG
+68,hum daily life mein bohat laptop use karte hain,mein,URD
+68,hum daily life mein bohat laptop use karte hain,bohat,URD
+68,hum daily life mein bohat laptop use karte hain,laptop,ENG
+68,hum daily life mein bohat laptop use karte hain,use,ENG
+68,hum daily life mein bohat laptop use karte hain,karte,URD
+68,hum daily life mein bohat laptop use karte hain,hain,URD
+69,hamare professor ne light explain kiya,hamare,URD
+69,hamare professor ne light explain kiya,professor,ENG
+69,hamare professor ne light explain kiya,ne,URD
+69,hamare professor ne light explain kiya,light,MIX
+69,hamare professor ne light explain kiya,explain,ENG
+69,hamare professor ne light explain kiya,kiya,URD
+70,kal hamari computer ki class hai,kal,URD
+70,kal hamari computer ki class hai,hamari,URD
+70,kal hamari computer ki class hai,computer,ENG
+70,kal hamari computer ki class hai,ki,URD
+70,kal hamari computer ki class hai,class,MIX
+70,kal hamari computer ki class hai,hai,URD
+71,is semester mein naya chat add hua hai,is,URD
+71,is semester mein naya chat add hua hai,semester,ENG
+71,is semester mein naya chat add hua hai,mein,URD
+71,is semester mein naya chat add hua hai,naya,URD
+71,is semester mein naya chat add hua hai,chat,MIX
+71,is semester mein naya chat add hua hai,add,ENG
+71,is semester mein naya chat add hua hai,hua,URD
+71,is semester mein naya chat add hua hai,hai,URD
+72,is semester mein naya server add hua hai,is,URD
+72,is semester mein naya server add hua hai,semester,ENG
+72,is semester mein naya server add hua hai,mein,URD
+72,is semester mein naya server add hua hai,naya,URD
+72,is semester mein naya server add hua hai,server,ENG
+72,is semester mein naya server add hua hai,add,ENG
+72,is semester mein naya server add hua hai,hua,URD
+72,is semester mein naya server add hua hai,hai,URD
+73,is time mein bohat masla hai,is,URD
+73,is time mein bohat masla hai,time,MIX
+73,is time mein bohat masla hai,mein,URD
+73,is time mein bohat masla hai,bohat,URD
+73,is time mein bohat masla hai,masla,URD
+73,is time mein bohat masla hai,hai,URD
+74,kya aap mujhe email ke baare mein bata saktay hain,kya,URD
+74,kya aap mujhe email ke baare mein bata saktay hain,aap,URD
+74,kya aap mujhe email ke baare mein bata saktay hain,mujhe,URD
+74,kya aap mujhe email ke baare mein bata saktay hain,email,ENG
+74,kya aap mujhe email ke baare mein bata saktay hain,ke,URD
+74,kya aap mujhe email ke baare mein bata saktay hain,baare,URD
+74,kya aap mujhe email ke baare mein bata saktay hain,mein,URD
+74,kya aap mujhe email ke baare mein bata saktay hain,bata,URD
+74,kya aap mujhe email ke baare mein bata saktay hain,saktay,URD
+74,kya aap mujhe email ke baare mein bata saktay hain,hain,URD
+75,main ne apna market update kar diya,main,URD
+75,main ne apna market update kar diya,ne,URD
+75,main ne apna market update kar diya,apna,URD
+75,main ne apna market update kar diya,market,ENG
+75,main ne apna market update kar diya,update,ENG
+75,main ne apna market update kar diya,kar,URD
+75,main ne apna market update kar diya,diya,URD
+76,woh check ke baare mein baat kar raha tha,woh,URD
+76,woh check ke baare mein baat kar raha tha,check,MIX
+76,woh check ke baare mein baat kar raha tha,ke,URD
+76,woh check ke baare mein baat kar raha tha,baare,URD
+76,woh check ke baare mein baat kar raha tha,mein,URD
+76,woh check ke baare mein baat kar raha tha,baat,URD
+76,woh check ke baare mein baat kar raha tha,kar,URD
+76,woh check ke baare mein baat kar raha tha,raha,URD
+76,woh check ke baare mein baat kar raha tha,tha,URD
+77,hamari team ne full successfully complete kar liya,hamari,URD
+77,hamari team ne full successfully complete kar liya,team,ENG
+77,hamari team ne full successfully complete kar liya,ne,URD
+77,hamari team ne full successfully complete kar liya,full,MIX
+77,hamari team ne full successfully complete kar liya,successfully,ENG
+77,hamari team ne full successfully complete kar liya,complete,ENG
+77,hamari team ne full successfully complete kar liya,kar,URD
+77,hamari team ne full successfully complete kar liya,liya,URD
+78,woh shopping ke baare mein baat kar raha tha,woh,URD
+78,woh shopping ke baare mein baat kar raha tha,shopping,ENG
+78,woh shopping ke baare mein baat kar raha tha,ke,URD
+78,woh shopping ke baare mein baat kar raha tha,baare,URD
+78,woh shopping ke baare mein baat kar raha tha,mein,URD
+78,woh shopping ke baare mein baat kar raha tha,baat,URD
+78,woh shopping ke baare mein baat kar raha tha,kar,URD
+78,woh shopping ke baare mein baat kar raha tha,raha,URD
+78,woh shopping ke baare mein baat kar raha tha,tha,URD
+79,yeh application mujhe samajh nahi aa raha,yeh,URD
+79,yeh application mujhe samajh nahi aa raha,application,ENG
+79,yeh application mujhe samajh nahi aa raha,mujhe,URD
+79,yeh application mujhe samajh nahi aa raha,samajh,URD
+79,yeh application mujhe samajh nahi aa raha,nahi,URD
+79,yeh application mujhe samajh nahi aa raha,aa,URD
+79,yeh application mujhe samajh nahi aa raha,raha,URD
+80,is group mein bohat masla hai,is,URD
+80,is group mein bohat masla hai,group,MIX
+80,is group mein bohat masla hai,mein,URD
+80,is group mein bohat masla hai,bohat,URD
+80,is group mein bohat masla hai,masla,URD
+80,is group mein bohat masla hai,hai,URD
+81,main internship mein profile sikh raha hoon,main,URD
+81,main internship mein profile sikh raha hoon,internship,ENG
+81,main internship mein profile sikh raha hoon,mein,URD
+81,main internship mein profile sikh raha hoon,profile,ENG
+81,main internship mein profile sikh raha hoon,sikh,URD
+81,main internship mein profile sikh raha hoon,raha,URD
+81,main internship mein profile sikh raha hoon,hoon,URD
+82,is semester mein naya result add hua hai,is,URD
+82,is semester mein naya result add hua hai,semester,ENG
+82,is semester mein naya result add hua hai,mein,URD
+82,is semester mein naya result add hua hai,naya,URD
+82,is semester mein naya result add hua hai,result,ENG
+82,is semester mein naya result add hua hai,add,ENG
+82,is semester mein naya result add hua hai,hua,URD
+82,is semester mein naya result add hua hai,hai,URD
+83,mujhe topic samajhne mein waqt laga,mujhe,URD
+83,mujhe topic samajhne mein waqt laga,topic,MIX
+83,mujhe topic samajhne mein waqt laga,samajhne,URD
+83,mujhe topic samajhne mein waqt laga,mein,URD
+83,mujhe topic samajhne mein waqt laga,waqt,URD
+83,mujhe topic samajhne mein waqt laga,laga,URD
+84,aap ne yeh order kaise kiya,aap,URD
+84,aap ne yeh order kaise kiya,ne,URD
+84,aap ne yeh order kaise kiya,yeh,URD
+84,aap ne yeh order kaise kiya,order,ENG
+84,aap ne yeh order kaise kiya,kaise,URD
+84,aap ne yeh order kaise kiya,kiya,URD
+85,is semester mein naya order add hua hai,is,URD
+85,is semester mein naya order add hua hai,semester,ENG
+85,is semester mein naya order add hua hai,mein,URD
+85,is semester mein naya order add hua hai,naya,URD
+85,is semester mein naya order add hua hai,order,ENG
+85,is semester mein naya order add hua hai,add,ENG
+85,is semester mein naya order add hua hai,hua,URD
+85,is semester mein naya order add hua hai,hai,URD
+86,main database kar raha hoon,main,URD
+86,main database kar raha hoon,database,ENG
+86,main database kar raha hoon,kar,URD
+86,main database kar raha hoon,raha,URD
+86,main database kar raha hoon,hoon,URD
+87,mujhe professor pasand hai,mujhe,URD
+87,mujhe professor pasand hai,professor,ENG
+87,mujhe professor pasand hai,pasand,URD
+87,mujhe professor pasand hai,hai,URD
+88,main roz employee check karta hoon,main,URD
+88,main roz employee check karta hoon,roz,URD
+88,main roz employee check karta hoon,employee,ENG
+88,main roz employee check karta hoon,check,MIX
+88,main roz employee check karta hoon,karta,URD
+88,main roz employee check karta hoon,hoon,URD
+89,us ne apni exam achi tarah prepare ki,us,URD
+89,us ne apni exam achi tarah prepare ki,ne,URD
+89,us ne apni exam achi tarah prepare ki,apni,URD
+89,us ne apni exam achi tarah prepare ki,exam,ENG
+89,us ne apni exam achi tarah prepare ki,achi,URD
+89,us ne apni exam achi tarah prepare ki,tarah,URD
+89,us ne apni exam achi tarah prepare ki,prepare,ENG
+89,us ne apni exam achi tarah prepare ki,ki,URD
+90,main ne apna feature update kar diya,main,URD
+90,main ne apna feature update kar diya,ne,URD
+90,main ne apna feature update kar diya,apna,URD
+90,main ne apna feature update kar diya,feature,ENG
+90,main ne apna feature update kar diya,update,ENG
+90,main ne apna feature update kar diya,kar,URD
+90,main ne apna feature update kar diya,diya,URD
+91,hamare boss ne python ke baare mein email bheja,hamare,URD
+91,hamare boss ne python ke baare mein email bheja,boss,ENG
+91,hamare boss ne python ke baare mein email bheja,ne,URD
+91,hamare boss ne python ke baare mein email bheja,python,ENG
+91,hamare boss ne python ke baare mein email bheja,ke,URD
+91,hamare boss ne python ke baare mein email bheja,baare,URD
+91,hamare boss ne python ke baare mein email bheja,mein,URD
+91,hamare boss ne python ke baare mein email bheja,email,ENG
+91,hamare boss ne python ke baare mein email bheja,bheja,URD
+92,mujhe intelligence samajhne mein waqt laga,mujhe,URD
+92,mujhe intelligence samajhne mein waqt laga,intelligence,ENG
+92,mujhe intelligence samajhne mein waqt laga,samajhne,URD
+92,mujhe intelligence samajhne mein waqt laga,mein,URD
+92,mujhe intelligence samajhne mein waqt laga,waqt,URD
+92,mujhe intelligence samajhne mein waqt laga,laga,URD
+93,mujhe plan samajhne mein waqt laga,mujhe,URD
+93,mujhe plan samajhne mein waqt laga,plan,MIX
+93,mujhe plan samajhne mein waqt laga,samajhne,URD
+93,mujhe plan samajhne mein waqt laga,mein,URD
+93,mujhe plan samajhne mein waqt laga,waqt,URD
+93,mujhe plan samajhne mein waqt laga,laga,URD
+94,kya aap mujhe internship ke baare mein bata saktay hain,kya,URD
+94,kya aap mujhe internship ke baare mein bata saktay hain,aap,URD
+94,kya aap mujhe internship ke baare mein bata saktay hain,mujhe,URD
+94,kya aap mujhe internship ke baare mein bata saktay hain,internship,ENG
+94,kya aap mujhe internship ke baare mein bata saktay hain,ke,URD
+94,kya aap mujhe internship ke baare mein bata saktay hain,baare,URD
+94,kya aap mujhe internship ke baare mein bata saktay hain,mein,URD
+94,kya aap mujhe internship ke baare mein bata saktay hain,bata,URD
+94,kya aap mujhe internship ke baare mein bata saktay hain,saktay,URD
+94,kya aap mujhe internship ke baare mein bata saktay hain,hain,URD
+95,main roz application check karta hoon,main,URD
+95,main roz application check karta hoon,roz,URD
+95,main roz application check karta hoon,application,ENG
+95,main roz application check karta hoon,check,MIX
+95,main roz application check karta hoon,karta,URD
+95,main roz application check karta hoon,hoon,URD
+96,hamare boss ne bug ke baare mein email bheja,hamare,URD
+96,hamare boss ne bug ke baare mein email bheja,boss,ENG
+96,hamare boss ne bug ke baare mein email bheja,ne,URD
+96,hamare boss ne bug ke baare mein email bheja,bug,ENG
+96,hamare boss ne bug ke baare mein email bheja,ke,URD
+96,hamare boss ne bug ke baare mein email bheja,baare,URD
+96,hamare boss ne bug ke baare mein email bheja,mein,URD
+96,hamare boss ne bug ke baare mein email bheja,email,ENG
+96,hamare boss ne bug ke baare mein email bheja,bheja,URD
+97,mera login mukammal ho gaya hai,mera,URD
+97,mera login mukammal ho gaya hai,login,ENG
+97,mera login mukammal ho gaya hai,mukammal,URD
+97,mera login mukammal ho gaya hai,ho,URD
+97,mera login mukammal ho gaya hai,gaya,URD
+97,mera login mukammal ho gaya hai,hai,URD
+98,main product kar raha hoon,main,URD
+98,main product kar raha hoon,product,ENG
+98,main product kar raha hoon,kar,URD
+98,main product kar raha hoon,raha,URD
+98,main product kar raha hoon,hoon,URD
+99,humein internet ke liye zyada waqt chahiye,humein,URD
+99,humein internet ke liye zyada waqt chahiye,internet,ENG
+99,humein internet ke liye zyada waqt chahiye,ke,URD
+99,humein internet ke liye zyada waqt chahiye,liye,URD
+99,humein internet ke liye zyada waqt chahiye,zyada,URD
+99,humein internet ke liye zyada waqt chahiye,waqt,URD
+99,humein internet ke liye zyada waqt chahiye,chahiye,URD
+100,is check mein bohat masla hai,is,URD
+100,is check mein bohat masla hai,check,MIX
+100,is check mein bohat masla hai,mein,URD
+100,is check mein bohat masla hai,bohat,URD
+100,is check mein bohat masla hai,masla,URD
+100,is check mein bohat masla hai,hai,URD
+101,hamari university mein naya YouTube shuru hua hai,hamari,URD
+101,hamari university mein naya YouTube shuru hua hai,university,ENG
+101,hamari university mein naya YouTube shuru hua hai,mein,URD
+101,hamari university mein naya YouTube shuru hua hai,naya,URD
+101,hamari university mein naya YouTube shuru hua hai,YouTube,ENG
+101,hamari university mein naya YouTube shuru hua hai,shuru,URD
+101,hamari university mein naya YouTube shuru hua hai,hua,URD
+101,hamari university mein naya YouTube shuru hua hai,hai,URD
+102,is semester mein naya exam add hua hai,is,URD
+102,is semester mein naya exam add hua hai,semester,ENG
+102,is semester mein naya exam add hua hai,mein,URD
+102,is semester mein naya exam add hua hai,naya,URD
+102,is semester mein naya exam add hua hai,exam,ENG
+102,is semester mein naya exam add hua hai,add,ENG
+102,is semester mein naya exam add hua hai,hua,URD
+102,is semester mein naya exam add hua hai,hai,URD
+103,humein project ke liye zyada waqt chahiye,humein,URD
+103,humein project ke liye zyada waqt chahiye,project,ENG
+103,humein project ke liye zyada waqt chahiye,ke,URD
+103,humein project ke liye zyada waqt chahiye,liye,URD
+103,humein project ke liye zyada waqt chahiye,zyada,URD
+103,humein project ke liye zyada waqt chahiye,waqt,URD
+103,humein project ke liye zyada waqt chahiye,chahiye,URD
+104,main roz computer check karta hoon,main,URD
+104,main roz computer check karta hoon,roz,URD
+104,main roz computer check karta hoon,computer,ENG
+104,main roz computer check karta hoon,check,MIX
+104,main roz computer check karta hoon,karta,URD
+104,main roz computer check karta hoon,hoon,URD
+105,main computer kar raha hoon,main,URD
+105,main computer kar raha hoon,computer,ENG
+105,main computer kar raha hoon,kar,URD
+105,main computer kar raha hoon,raha,URD
+105,main computer kar raha hoon,hoon,URD
+106,yeh debugging mujhe samajh nahi aa raha,yeh,URD
+106,yeh debugging mujhe samajh nahi aa raha,debugging,ENG
+106,yeh debugging mujhe samajh nahi aa raha,mujhe,URD
+106,yeh debugging mujhe samajh nahi aa raha,samajh,URD
+106,yeh debugging mujhe samajh nahi aa raha,nahi,URD
+106,yeh debugging mujhe samajh nahi aa raha,aa,URD
+106,yeh debugging mujhe samajh nahi aa raha,raha,URD
+107,main internship mein function sikh raha hoon,main,URD
+107,main internship mein function sikh raha hoon,internship,ENG
+107,main internship mein function sikh raha hoon,mein,URD
+107,main internship mein function sikh raha hoon,function,ENG
+107,main internship mein function sikh raha hoon,sikh,URD
+107,main internship mein function sikh raha hoon,raha,URD
+107,main internship mein function sikh raha hoon,hoon,URD
+108,hamare boss ne interview ke baare mein email bheja,hamare,URD
+108,hamare boss ne interview ke baare mein email bheja,boss,ENG
+108,hamare boss ne interview ke baare mein email bheja,ne,URD
+108,hamare boss ne interview ke baare mein email bheja,interview,ENG
+108,hamare boss ne interview ke baare mein email bheja,ke,URD
+108,hamare boss ne interview ke baare mein email bheja,baare,URD
+108,hamare boss ne interview ke baare mein email bheja,mein,URD
+108,hamare boss ne interview ke baare mein email bheja,email,ENG
+108,hamare boss ne interview ke baare mein email bheja,bheja,URD
+109,aaj ka assignment result pe base hai,aaj,URD
+109,aaj ka assignment result pe base hai,ka,URD
+109,aaj ka assignment result pe base hai,assignment,ENG
+109,aaj ka assignment result pe base hai,result,ENG
+109,aaj ka assignment result pe base hai,pe,URD
+109,aaj ka assignment result pe base hai,base,ENG
+109,aaj ka assignment result pe base hai,hai,URD
+110,mujhe idea samajhne mein waqt laga,mujhe,URD
+110,mujhe idea samajhne mein waqt laga,idea,MIX
+110,mujhe idea samajhne mein waqt laga,samajhne,URD
+110,mujhe idea samajhne mein waqt laga,mein,URD
+110,mujhe idea samajhne mein waqt laga,waqt,URD
+110,mujhe idea samajhne mein waqt laga,laga,URD
+111,main internship mein discount sikh raha hoon,main,URD
+111,main internship mein discount sikh raha hoon,internship,ENG
+111,main internship mein discount sikh raha hoon,mein,URD
+111,main internship mein discount sikh raha hoon,discount,ENG
+111,main internship mein discount sikh raha hoon,sikh,URD
+111,main internship mein discount sikh raha hoon,raha,URD
+111,main internship mein discount sikh raha hoon,hoon,URD
+112,yeh team bohat accha hai,yeh,URD
+112,yeh team bohat accha hai,team,ENG
+112,yeh team bohat accha hai,bohat,URD
+112,yeh team bohat accha hai,accha,URD
+112,yeh team bohat accha hai,hai,URD
+113,hum daily life mein bohat version use karte hain,hum,URD
+113,hum daily life mein bohat version use karte hain,daily,ENG
+113,hum daily life mein bohat version use karte hain,life,ENG
+113,hum daily life mein bohat version use karte hain,mein,URD
+113,hum daily life mein bohat version use karte hain,bohat,URD
+113,hum daily life mein bohat version use karte hain,version,ENG
+113,hum daily life mein bohat version use karte hain,use,ENG
+113,hum daily life mein bohat version use karte hain,karte,URD
+113,hum daily life mein bohat version use karte hain,hain,URD
+114,aaj ka assignment cloud pe base hai,aaj,URD
+114,aaj ka assignment cloud pe base hai,ka,URD
+114,aaj ka assignment cloud pe base hai,assignment,ENG
+114,aaj ka assignment cloud pe base hai,cloud,ENG
+114,aaj ka assignment cloud pe base hai,pe,URD
+114,aaj ka assignment cloud pe base hai,base,ENG
+114,aaj ka assignment cloud pe base hai,hai,URD
+115,mujhe shopping karte waqt achi meeting mili,mujhe,URD
+115,mujhe shopping karte waqt achi meeting mili,shopping,ENG
+115,mujhe shopping karte waqt achi meeting mili,karte,URD
+115,mujhe shopping karte waqt achi meeting mili,waqt,URD
+115,mujhe shopping karte waqt achi meeting mili,achi,URD
+115,mujhe shopping karte waqt achi meeting mili,meeting,ENG
+115,mujhe shopping karte waqt achi meeting mili,mili,URD
+116,main roz settings check karta hoon,main,URD
+116,main roz settings check karta hoon,roz,URD
+116,main roz settings check karta hoon,settings,ENG
+116,main roz settings check karta hoon,check,MIX
+116,main roz settings check karta hoon,karta,URD
+116,main roz settings check karta hoon,hoon,URD
+117,us ne apni developer achi tarah prepare ki,us,URD
+117,us ne apni developer achi tarah prepare ki,ne,URD
+117,us ne apni developer achi tarah prepare ki,apni,URD
+117,us ne apni developer achi tarah prepare ki,developer,ENG
+117,us ne apni developer achi tarah prepare ki,achi,URD
+117,us ne apni developer achi tarah prepare ki,tarah,URD
+117,us ne apni developer achi tarah prepare ki,prepare,ENG
+117,us ne apni developer achi tarah prepare ki,ki,URD
+118,main folder kar raha hoon,main,URD
+118,main folder kar raha hoon,folder,ENG
+118,main folder kar raha hoon,kar,URD
+118,main folder kar raha hoon,raha,URD
+118,main folder kar raha hoon,hoon,URD
+119,yeh topic mujhe samajh nahi aa raha,yeh,URD
+119,yeh topic mujhe samajh nahi aa raha,topic,MIX
+119,yeh topic mujhe samajh nahi aa raha,mujhe,URD
+119,yeh topic mujhe samajh nahi aa raha,samajh,URD
+119,yeh topic mujhe samajh nahi aa raha,nahi,URD
+119,yeh topic mujhe samajh nahi aa raha,aa,URD
+119,yeh topic mujhe samajh nahi aa raha,raha,URD
+120,yeh network mujhe samajh nahi aa raha,yeh,URD
+120,yeh network mujhe samajh nahi aa raha,network,ENG
+120,yeh network mujhe samajh nahi aa raha,mujhe,URD
+120,yeh network mujhe samajh nahi aa raha,samajh,URD
+120,yeh network mujhe samajh nahi aa raha,nahi,URD
+120,yeh network mujhe samajh nahi aa raha,aa,URD
+120,yeh network mujhe samajh nahi aa raha,raha,URD
+121,hamari university mein naya point shuru hua hai,hamari,URD
+121,hamari university mein naya point shuru hua hai,university,ENG
+121,hamari university mein naya point shuru hua hai,mein,URD
+121,hamari university mein naya point shuru hua hai,naya,URD
+121,hamari university mein naya point shuru hua hai,point,MIX
+121,hamari university mein naya point shuru hua hai,shuru,URD
+121,hamari university mein naya point shuru hua hai,hua,URD
+121,hamari university mein naya point shuru hua hai,hai,URD
+122,hamare professor ne plan explain kiya,hamare,URD
+122,hamare professor ne plan explain kiya,professor,ENG
+122,hamare professor ne plan explain kiya,ne,URD
+122,hamare professor ne plan explain kiya,plan,MIX
+122,hamare professor ne plan explain kiya,explain,ENG
+122,hamare professor ne plan explain kiya,kiya,URD
+123,aap ne yeh code kaise kiya,aap,URD
+123,aap ne yeh code kaise kiya,ne,URD
+123,aap ne yeh code kaise kiya,yeh,URD
+123,aap ne yeh code kaise kiya,code,ENG
+123,aap ne yeh code kaise kiya,kaise,URD
+123,aap ne yeh code kaise kiya,kiya,URD
+124,main roz python check karta hoon,main,URD
+124,main roz python check karta hoon,roz,URD
+124,main roz python check karta hoon,python,ENG
+124,main roz python check karta hoon,check,MIX
+124,main roz python check karta hoon,karta,URD
+124,main roz python check karta hoon,hoon,URD
+125,yeh online bohat accha hai,yeh,URD
+125,yeh online bohat accha hai,online,ENG
+125,yeh online bohat accha hai,bohat,URD
+125,yeh online bohat accha hai,accha,URD
+125,yeh online bohat accha hai,hai,URD
+126,kal hamari check ki class hai,kal,URD
+126,kal hamari check ki class hai,hamari,URD
+126,kal hamari check ki class hai,check,MIX
+126,kal hamari check ki class hai,ki,URD
+126,kal hamari check ki class hai,class,MIX
+126,kal hamari check ki class hai,hai,URD
+127,us ne apni dataset achi tarah prepare ki,us,URD
+127,us ne apni dataset achi tarah prepare ki,ne,URD
+127,us ne apni dataset achi tarah prepare ki,apni,URD
+127,us ne apni dataset achi tarah prepare ki,dataset,ENG
+127,us ne apni dataset achi tarah prepare ki,achi,URD
+127,us ne apni dataset achi tarah prepare ki,tarah,URD
+127,us ne apni dataset achi tarah prepare ki,prepare,ENG
+127,us ne apni dataset achi tarah prepare ki,ki,URD
+128,aap ne yeh website kaise kiya,aap,URD
+128,aap ne yeh website kaise kiya,ne,URD
+128,aap ne yeh website kaise kiya,yeh,URD
+128,aap ne yeh website kaise kiya,website,ENG
+128,aap ne yeh website kaise kiya,kaise,URD
+128,aap ne yeh website kaise kiya,kiya,URD
+129,hum aaj product submit karenge,hum,URD
+129,hum aaj product submit karenge,aaj,URD
+129,hum aaj product submit karenge,product,ENG
+129,hum aaj product submit karenge,submit,ENG
+129,hum aaj product submit karenge,karenge,URD
+130,main internship mein Google sikh raha hoon,main,URD
+130,main internship mein Google sikh raha hoon,internship,ENG
+130,main internship mein Google sikh raha hoon,mein,URD
+130,main internship mein Google sikh raha hoon,Google,ENG
+130,main internship mein Google sikh raha hoon,sikh,URD
+130,main internship mein Google sikh raha hoon,raha,URD
+130,main internship mein Google sikh raha hoon,hoon,URD
+131,mujhe YouTube pasand hai,mujhe,URD
+131,mujhe YouTube pasand hai,YouTube,ENG
+131,mujhe YouTube pasand hai,pasand,URD
+131,mujhe YouTube pasand hai,hai,URD
+132,is semester mein naya point add hua hai,is,URD
+132,is semester mein naya point add hua hai,semester,ENG
+132,is semester mein naya point add hua hai,mein,URD
+132,is semester mein naya point add hua hai,naya,URD
+132,is semester mein naya point add hua hai,point,MIX
+132,is semester mein naya point add hua hai,add,ENG
+132,is semester mein naya point add hua hai,hua,URD
+132,is semester mein naya point add hua hai,hai,URD
+133,main ne apna product update kar diya,main,URD
+133,main ne apna product update kar diya,ne,URD
+133,main ne apna product update kar diya,apna,URD
+133,main ne apna product update kar diya,product,ENG
+133,main ne apna product update kar diya,update,ENG
+133,main ne apna product update kar diya,kar,URD
+133,main ne apna product update kar diya,diya,URD
+134,is bank ka price bohat zyada hai,is,URD
+134,is bank ka price bohat zyada hai,bank,MIX
+134,is bank ka price bohat zyada hai,ka,URD
+134,is bank ka price bohat zyada hai,price,ENG
+134,is bank ka price bohat zyada hai,bohat,URD
+134,is bank ka price bohat zyada hai,zyada,URD
+134,is bank ka price bohat zyada hai,hai,URD
+135,mujhe Instagram pasand hai,mujhe,URD
+135,mujhe Instagram pasand hai,Instagram,ENG
+135,mujhe Instagram pasand hai,pasand,URD
+135,mujhe Instagram pasand hai,hai,URD
+136,hum aaj surprise submit karenge,hum,URD
+136,hum aaj surprise submit karenge,aaj,URD
+136,hum aaj surprise submit karenge,surprise,MIX
+136,hum aaj surprise submit karenge,submit,ENG
+136,hum aaj surprise submit karenge,karenge,URD
+137,mujhe shopping karte waqt achi free mili,mujhe,URD
+137,mujhe shopping karte waqt achi free mili,shopping,ENG
+137,mujhe shopping karte waqt achi free mili,karte,URD
+137,mujhe shopping karte waqt achi free mili,waqt,URD
+137,mujhe shopping karte waqt achi free mili,achi,URD
+137,mujhe shopping karte waqt achi free mili,free,MIX
+137,mujhe shopping karte waqt achi free mili,mili,URD
+138,hum aaj machine submit karenge,hum,URD
+138,hum aaj machine submit karenge,aaj,URD
+138,hum aaj machine submit karenge,machine,ENG
+138,hum aaj machine submit karenge,submit,ENG
+138,hum aaj machine submit karenge,karenge,URD
+139,aaj ka assignment password pe base hai,aaj,URD
+139,aaj ka assignment password pe base hai,ka,URD
+139,aaj ka assignment password pe base hai,assignment,ENG
+139,aaj ka assignment password pe base hai,password,ENG
+139,aaj ka assignment password pe base hai,pe,URD
+139,aaj ka assignment password pe base hai,base,ENG
+139,aaj ka assignment password pe base hai,hai,URD
+140,mera data mukammal ho gaya hai,mera,URD
+140,mera data mukammal ho gaya hai,data,ENG
+140,mera data mukammal ho gaya hai,mukammal,URD
+140,mera data mukammal ho gaya hai,ho,URD
+140,mera data mukammal ho gaya hai,gaya,URD
+140,mera data mukammal ho gaya hai,hai,URD
+141,mera database mukammal ho gaya hai,mera,URD
+141,mera database mukammal ho gaya hai,database,ENG
+141,mera database mukammal ho gaya hai,mukammal,URD
+141,mera database mukammal ho gaya hai,ho,URD
+141,mera database mukammal ho gaya hai,gaya,URD
+141,mera database mukammal ho gaya hai,hai,URD
+142,mujhe is security ki zaroorat hai,mujhe,URD
+142,mujhe is security ki zaroorat hai,is,URD
+142,mujhe is security ki zaroorat hai,security,ENG
+142,mujhe is security ki zaroorat hai,ki,URD
+142,mujhe is security ki zaroorat hai,zaroorat,URD
+142,mujhe is security ki zaroorat hai,hai,URD
+143,mera discount mukammal ho gaya hai,mera,URD
+143,mera discount mukammal ho gaya hai,discount,ENG
+143,mera discount mukammal ho gaya hai,mukammal,URD
+143,mera discount mukammal ho gaya hai,ho,URD
+143,mera discount mukammal ho gaya hai,gaya,URD
+143,mera discount mukammal ho gaya hai,hai,URD
+144,mera version mukammal ho gaya hai,mera,URD
+144,mera version mukammal ho gaya hai,version,ENG
+144,mera version mukammal ho gaya hai,mukammal,URD
+144,mera version mukammal ho gaya hai,ho,URD
+144,mera version mukammal ho gaya hai,gaya,URD
+144,mera version mukammal ho gaya hai,hai,URD
+145,yeh career bohat accha hai,yeh,URD
+145,yeh career bohat accha hai,career,ENG
+145,yeh career bohat accha hai,bohat,URD
+145,yeh career bohat accha hai,accha,URD
+145,yeh career bohat accha hai,hai,URD
+146,aap ne yeh result kaise kiya,aap,URD
+146,aap ne yeh result kaise kiya,ne,URD
+146,aap ne yeh result kaise kiya,yeh,URD
+146,aap ne yeh result kaise kiya,result,ENG
+146,aap ne yeh result kaise kiya,kaise,URD
+146,aap ne yeh result kaise kiya,kiya,URD
+147,main software kar raha hoon,main,URD
+147,main software kar raha hoon,software,ENG
+147,main software kar raha hoon,kar,URD
+147,main software kar raha hoon,raha,URD
+147,main software kar raha hoon,hoon,URD
+148,is semester mein naya experience add hua hai,is,URD
+148,is semester mein naya experience add hua hai,semester,ENG
+148,is semester mein naya experience add hua hai,mein,URD
+148,is semester mein naya experience add hua hai,naya,URD
+148,is semester mein naya experience add hua hai,experience,ENG
+148,is semester mein naya experience add hua hai,add,ENG
+148,is semester mein naya experience add hua hai,hua,URD
+148,is semester mein naya experience add hua hai,hai,URD
+149,mera bill mukammal ho gaya hai,mera,URD
+149,mera bill mukammal ho gaya hai,bill,MIX
+149,mera bill mukammal ho gaya hai,mukammal,URD
+149,mera bill mukammal ho gaya hai,ho,URD
+149,mera bill mukammal ho gaya hai,gaya,URD
+149,mera bill mukammal ho gaya hai,hai,URD
+150,is Instagram ka price bohat zyada hai,is,URD
+150,is Instagram ka price bohat zyada hai,Instagram,ENG
+150,is Instagram ka price bohat zyada hai,ka,URD
+150,is Instagram ka price bohat zyada hai,price,ENG
+150,is Instagram ka price bohat zyada hai,bohat,URD
+150,is Instagram ka price bohat zyada hai,zyada,URD
+150,is Instagram ka price bohat zyada hai,hai,URD
+151,humein YouTube ke liye zyada waqt chahiye,humein,URD
+151,humein YouTube ke liye zyada waqt chahiye,YouTube,ENG
+151,humein YouTube ke liye zyada waqt chahiye,ke,URD
+151,humein YouTube ke liye zyada waqt chahiye,liye,URD
+151,humein YouTube ke liye zyada waqt chahiye,zyada,URD
+151,humein YouTube ke liye zyada waqt chahiye,waqt,URD
+151,humein YouTube ke liye zyada waqt chahiye,chahiye,URD
+152,hamare professor ne algorithm explain kiya,hamare,URD
+152,hamare professor ne algorithm explain kiya,professor,ENG
+152,hamare professor ne algorithm explain kiya,ne,URD
+152,hamare professor ne algorithm explain kiya,algorithm,ENG
+152,hamare professor ne algorithm explain kiya,explain,ENG
+152,hamare professor ne algorithm explain kiya,kiya,URD
+153,kya aap mujhe error ke baare mein bata saktay hain,kya,URD
+153,kya aap mujhe error ke baare mein bata saktay hain,aap,URD
+153,kya aap mujhe error ke baare mein bata saktay hain,mujhe,URD
+153,kya aap mujhe error ke baare mein bata saktay hain,error,ENG
+153,kya aap mujhe error ke baare mein bata saktay hain,ke,URD
+153,kya aap mujhe error ke baare mein bata saktay hain,baare,URD
+153,kya aap mujhe error ke baare mein bata saktay hain,mein,URD
+153,kya aap mujhe error ke baare mein bata saktay hain,bata,URD
+153,kya aap mujhe error ke baare mein bata saktay hain,saktay,URD
+153,kya aap mujhe error ke baare mein bata saktay hain,hain,URD
+154,is degree mein bohat masla hai,is,URD
+154,is degree mein bohat masla hai,degree,ENG
+154,is degree mein bohat masla hai,mein,URD
+154,is degree mein bohat masla hai,bohat,URD
+154,is degree mein bohat masla hai,masla,URD
+154,is degree mein bohat masla hai,hai,URD
+155,us ne apni bill achi tarah prepare ki,us,URD
+155,us ne apni bill achi tarah prepare ki,ne,URD
+155,us ne apni bill achi tarah prepare ki,apni,URD
+155,us ne apni bill achi tarah prepare ki,bill,MIX
+155,us ne apni bill achi tarah prepare ki,achi,URD
+155,us ne apni bill achi tarah prepare ki,tarah,URD
+155,us ne apni bill achi tarah prepare ki,prepare,ENG
+155,us ne apni bill achi tarah prepare ki,ki,URD
+156,main professor kar raha hoon,main,URD
+156,main professor kar raha hoon,professor,ENG
+156,main professor kar raha hoon,kar,URD
+156,main professor kar raha hoon,raha,URD
+156,main professor kar raha hoon,hoon,URD
+157,humein debugging ke liye zyada waqt chahiye,humein,URD
+157,humein debugging ke liye zyada waqt chahiye,debugging,ENG
+157,humein debugging ke liye zyada waqt chahiye,ke,URD
+157,humein debugging ke liye zyada waqt chahiye,liye,URD
+157,humein debugging ke liye zyada waqt chahiye,zyada,URD
+157,humein debugging ke liye zyada waqt chahiye,waqt,URD
+157,humein debugging ke liye zyada waqt chahiye,chahiye,URD
+158,hamari team ne admission successfully complete kar liya,hamari,URD
+158,hamari team ne admission successfully complete kar liya,team,ENG
+158,hamari team ne admission successfully complete kar liya,ne,URD
+158,hamari team ne admission successfully complete kar liya,admission,ENG
+158,hamari team ne admission successfully complete kar liya,successfully,ENG
+158,hamari team ne admission successfully complete kar liya,complete,ENG
+158,hamari team ne admission successfully complete kar liya,kar,URD
+158,hamari team ne admission successfully complete kar liya,liya,URD
+159,mujhe shopping karte waqt achi update mili,mujhe,URD
+159,mujhe shopping karte waqt achi update mili,shopping,ENG
+159,mujhe shopping karte waqt achi update mili,karte,URD
+159,mujhe shopping karte waqt achi update mili,waqt,URD
+159,mujhe shopping karte waqt achi update mili,achi,URD
+159,mujhe shopping karte waqt achi update mili,update,ENG
+159,mujhe shopping karte waqt achi update mili,mili,URD
+160,humein Google ke liye zyada waqt chahiye,humein,URD
+160,humein Google ke liye zyada waqt chahiye,Google,ENG
+160,humein Google ke liye zyada waqt chahiye,ke,URD
+160,humein Google ke liye zyada waqt chahiye,liye,URD
+160,humein Google ke liye zyada waqt chahiye,zyada,URD
+160,humein Google ke liye zyada waqt chahiye,waqt,URD
+160,humein Google ke liye zyada waqt chahiye,chahiye,URD
+161,main ne apna shopping update kar diya,main,URD
+161,main ne apna shopping update kar diya,ne,URD
+161,main ne apna shopping update kar diya,apna,URD
+161,main ne apna shopping update kar diya,shopping,ENG
+161,main ne apna shopping update kar diya,update,ENG
+161,main ne apna shopping update kar diya,kar,URD
+161,main ne apna shopping update kar diya,diya,URD
+162,main call kar raha hoon,main,URD
+162,main call kar raha hoon,call,MIX
+162,main call kar raha hoon,kar,URD
+162,main call kar raha hoon,raha,URD
+162,main call kar raha hoon,hoon,URD
+163,kya aap mujhe salary ke baare mein bata saktay hain,kya,URD
+163,kya aap mujhe salary ke baare mein bata saktay hain,aap,URD
+163,kya aap mujhe salary ke baare mein bata saktay hain,mujhe,URD
+163,kya aap mujhe salary ke baare mein bata saktay hain,salary,ENG
+163,kya aap mujhe salary ke baare mein bata saktay hain,ke,URD
+163,kya aap mujhe salary ke baare mein bata saktay hain,baare,URD
+163,kya aap mujhe salary ke baare mein bata saktay hain,mein,URD
+163,kya aap mujhe salary ke baare mein bata saktay hain,bata,URD
+163,kya aap mujhe salary ke baare mein bata saktay hain,saktay,URD
+163,kya aap mujhe salary ke baare mein bata saktay hain,hain,URD
+164,main roz full check karta hoon,main,URD
+164,main roz full check karta hoon,roz,URD
+164,main roz full check karta hoon,full,MIX
+164,main roz full check karta hoon,check,MIX
+164,main roz full check karta hoon,karta,URD
+164,main roz full check karta hoon,hoon,URD
+165,mujhe account pasand hai,mujhe,URD
+165,mujhe account pasand hai,account,ENG
+165,mujhe account pasand hai,pasand,URD
+165,mujhe account pasand hai,hai,URD
+166,hum daily life mein bohat number use karte hain,hum,URD
+166,hum daily life mein bohat number use karte hain,daily,ENG
+166,hum daily life mein bohat number use karte hain,life,ENG
+166,hum daily life mein bohat number use karte hain,mein,URD
+166,hum daily life mein bohat number use karte hain,bohat,URD
+166,hum daily life mein bohat number use karte hain,number,MIX
+166,hum daily life mein bohat number use karte hain,use,ENG
+166,hum daily life mein bohat number use karte hain,karte,URD
+166,hum daily life mein bohat number use karte hain,hain,URD
+167,woh account ke baare mein baat kar raha tha,woh,URD
+167,woh account ke baare mein baat kar raha tha,account,ENG
+167,woh account ke baare mein baat kar raha tha,ke,URD
+167,woh account ke baare mein baat kar raha tha,baare,URD
+167,woh account ke baare mein baat kar raha tha,mein,URD
+167,woh account ke baare mein baat kar raha tha,baat,URD
+167,woh account ke baare mein baat kar raha tha,kar,URD
+167,woh account ke baare mein baat kar raha tha,raha,URD
+167,woh account ke baare mein baat kar raha tha,tha,URD
+168,main ne apna function update kar diya,main,URD
+168,main ne apna function update kar diya,ne,URD
+168,main ne apna function update kar diya,apna,URD
+168,main ne apna function update kar diya,function,ENG
+168,main ne apna function update kar diya,update,ENG
+168,main ne apna function update kar diya,kar,URD
+168,main ne apna function update kar diya,diya,URD
+169,aap ne yeh subject kaise kiya,aap,URD
+169,aap ne yeh subject kaise kiya,ne,URD
+169,aap ne yeh subject kaise kiya,yeh,URD
+169,aap ne yeh subject kaise kiya,subject,MIX
+169,aap ne yeh subject kaise kiya,kaise,URD
+169,aap ne yeh subject kaise kiya,kiya,URD
+170,is semester mein naya intelligence add hua hai,is,URD
+170,is semester mein naya intelligence add hua hai,semester,ENG
+170,is semester mein naya intelligence add hua hai,mein,URD
+170,is semester mein naya intelligence add hua hai,naya,URD
+170,is semester mein naya intelligence add hua hai,intelligence,ENG
+170,is semester mein naya intelligence add hua hai,add,ENG
+170,is semester mein naya intelligence add hua hai,hua,URD
+170,is semester mein naya intelligence add hua hai,hai,URD
+171,main model aur file dono seekh raha hoon,main,URD
+171,main model aur file dono seekh raha hoon,model,ENG
+171,main model aur file dono seekh raha hoon,aur,URD
+171,main model aur file dono seekh raha hoon,file,ENG
+171,main model aur file dono seekh raha hoon,dono,URD
+171,main model aur file dono seekh raha hoon,seekh,URD
+171,main model aur file dono seekh raha hoon,raha,URD
+171,main model aur file dono seekh raha hoon,hoon,URD
+172,main profile aur python dono seekh raha hoon,main,URD
+172,main profile aur python dono seekh raha hoon,profile,ENG
+172,main profile aur python dono seekh raha hoon,aur,URD
+172,main profile aur python dono seekh raha hoon,python,ENG
+172,main profile aur python dono seekh raha hoon,dono,URD
+172,main profile aur python dono seekh raha hoon,seekh,URD
+172,main profile aur python dono seekh raha hoon,raha,URD
+172,main profile aur python dono seekh raha hoon,hoon,URD
+173,main developer aur college dono seekh raha hoon,main,URD
+173,main developer aur college dono seekh raha hoon,developer,ENG
+173,main developer aur college dono seekh raha hoon,aur,URD
+173,main developer aur college dono seekh raha hoon,college,ENG
+173,main developer aur college dono seekh raha hoon,dono,URD
+173,main developer aur college dono seekh raha hoon,seekh,URD
+173,main developer aur college dono seekh raha hoon,raha,URD
+173,main developer aur college dono seekh raha hoon,hoon,URD
+174,main semester aur database dono seekh raha hoon,main,URD
+174,main semester aur database dono seekh raha hoon,semester,ENG
+174,main semester aur database dono seekh raha hoon,aur,URD
+174,main semester aur database dono seekh raha hoon,database,ENG
+174,main semester aur database dono seekh raha hoon,dono,URD
+174,main semester aur database dono seekh raha hoon,seekh,URD
+174,main semester aur database dono seekh raha hoon,raha,URD
+174,main semester aur database dono seekh raha hoon,hoon,URD
+175,main gift aur testing dono seekh raha hoon,main,URD
+175,main gift aur testing dono seekh raha hoon,gift,MIX
+175,main gift aur testing dono seekh raha hoon,aur,URD
+175,main gift aur testing dono seekh raha hoon,testing,ENG
+175,main gift aur testing dono seekh raha hoon,dono,URD
+175,main gift aur testing dono seekh raha hoon,seekh,URD
+175,main gift aur testing dono seekh raha hoon,raha,URD
+175,main gift aur testing dono seekh raha hoon,hoon,URD
+176,main laptop aur class dono seekh raha hoon,main,URD
+176,main laptop aur class dono seekh raha hoon,laptop,ENG
+176,main laptop aur class dono seekh raha hoon,aur,URD
+176,main laptop aur class dono seekh raha hoon,class,MIX
+176,main laptop aur class dono seekh raha hoon,dono,URD
+176,main laptop aur class dono seekh raha hoon,seekh,URD
+176,main laptop aur class dono seekh raha hoon,raha,URD
+176,main laptop aur class dono seekh raha hoon,hoon,URD
+177,main presentation aur set dono seekh raha hoon,main,URD
+177,main presentation aur set dono seekh raha hoon,presentation,ENG
+177,main presentation aur set dono seekh raha hoon,aur,URD
+177,main presentation aur set dono seekh raha hoon,set,MIX
+177,main presentation aur set dono seekh raha hoon,dono,URD
+177,main presentation aur set dono seekh raha hoon,seekh,URD
+177,main presentation aur set dono seekh raha hoon,raha,URD
+177,main presentation aur set dono seekh raha hoon,hoon,URD
+178,main payment aur admission dono seekh raha hoon,main,URD
+178,main payment aur admission dono seekh raha hoon,payment,ENG
+178,main payment aur admission dono seekh raha hoon,aur,URD
+178,main payment aur admission dono seekh raha hoon,admission,ENG
+178,main payment aur admission dono seekh raha hoon,dono,URD
+178,main payment aur admission dono seekh raha hoon,seekh,URD
+178,main payment aur admission dono seekh raha hoon,raha,URD
+178,main payment aur admission dono seekh raha hoon,hoon,URD
+179,main upload aur intelligence dono seekh raha hoon,main,URD
+179,main upload aur intelligence dono seekh raha hoon,upload,ENG
+179,main upload aur intelligence dono seekh raha hoon,aur,URD
+179,main upload aur intelligence dono seekh raha hoon,intelligence,ENG
+179,main upload aur intelligence dono seekh raha hoon,dono,URD
+179,main upload aur intelligence dono seekh raha hoon,seekh,URD
+179,main upload aur intelligence dono seekh raha hoon,raha,URD
+179,main upload aur intelligence dono seekh raha hoon,hoon,URD
+180,main settings aur line dono seekh raha hoon,main,URD
+180,main settings aur line dono seekh raha hoon,settings,ENG
+180,main settings aur line dono seekh raha hoon,aur,URD
+180,main settings aur line dono seekh raha hoon,line,MIX
+180,main settings aur line dono seekh raha hoon,dono,URD
+180,main settings aur line dono seekh raha hoon,seekh,URD
+180,main settings aur line dono seekh raha hoon,raha,URD
+180,main settings aur line dono seekh raha hoon,hoon,URD
+181,main email aur online dono seekh raha hoon,main,URD
+181,main email aur online dono seekh raha hoon,email,ENG
+181,main email aur online dono seekh raha hoon,aur,URD
+181,main email aur online dono seekh raha hoon,online,ENG
+181,main email aur online dono seekh raha hoon,dono,URD
+181,main email aur online dono seekh raha hoon,seekh,URD
+181,main email aur online dono seekh raha hoon,raha,URD
+181,main email aur online dono seekh raha hoon,hoon,URD
+182,main server aur backup dono seekh raha hoon,main,URD
+182,main server aur backup dono seekh raha hoon,server,ENG
+182,main server aur backup dono seekh raha hoon,aur,URD
+182,main server aur backup dono seekh raha hoon,backup,ENG
+182,main server aur backup dono seekh raha hoon,dono,URD
+182,main server aur backup dono seekh raha hoon,seekh,URD
+182,main server aur backup dono seekh raha hoon,raha,URD
+182,main server aur backup dono seekh raha hoon,hoon,URD
+183,main phone aur folder dono seekh raha hoon,main,URD
+183,main phone aur folder dono seekh raha hoon,phone,MIX
+183,main phone aur folder dono seekh raha hoon,aur,URD
+183,main phone aur folder dono seekh raha hoon,folder,ENG
+183,main phone aur folder dono seekh raha hoon,dono,URD
+183,main phone aur folder dono seekh raha hoon,seekh,URD
+183,main phone aur folder dono seekh raha hoon,raha,URD
+183,main phone aur folder dono seekh raha hoon,hoon,URD
+184,main assignment aur Instagram dono seekh raha hoon,main,URD
+184,main assignment aur Instagram dono seekh raha hoon,assignment,ENG
+184,main assignment aur Instagram dono seekh raha hoon,aur,URD
+184,main assignment aur Instagram dono seekh raha hoon,Instagram,ENG
+184,main assignment aur Instagram dono seekh raha hoon,dono,URD
+184,main assignment aur Instagram dono seekh raha hoon,seekh,URD
+184,main assignment aur Instagram dono seekh raha hoon,raha,URD
+184,main assignment aur Instagram dono seekh raha hoon,hoon,URD
+185,main deployment aur training dono seekh raha hoon,main,URD
+185,main deployment aur training dono seekh raha hoon,deployment,ENG
+185,main deployment aur training dono seekh raha hoon,aur,URD
+185,main deployment aur training dono seekh raha hoon,training,ENG
+185,main deployment aur training dono seekh raha hoon,dono,URD
+185,main deployment aur training dono seekh raha hoon,seekh,URD
+185,main deployment aur training dono seekh raha hoon,raha,URD
+185,main deployment aur training dono seekh raha hoon,hoon,URD
+186,main cloud aur ticket dono seekh raha hoon,main,URD
+186,main cloud aur ticket dono seekh raha hoon,cloud,ENG
+186,main cloud aur ticket dono seekh raha hoon,aur,URD
+186,main cloud aur ticket dono seekh raha hoon,ticket,MIX
+186,main cloud aur ticket dono seekh raha hoon,dono,URD
+186,main cloud aur ticket dono seekh raha hoon,seekh,URD
+186,main cloud aur ticket dono seekh raha hoon,raha,URD
+186,main cloud aur ticket dono seekh raha hoon,hoon,URD
+187,main university aur product dono seekh raha hoon,main,URD
+187,main university aur product dono seekh raha hoon,university,ENG
+187,main university aur product dono seekh raha hoon,aur,URD
+187,main university aur product dono seekh raha hoon,product,ENG
+187,main university aur product dono seekh raha hoon,dono,URD
+187,main university aur product dono seekh raha hoon,seekh,URD
+187,main university aur product dono seekh raha hoon,raha,URD
+187,main university aur product dono seekh raha hoon,hoon,URD
+188,main Facebook aur code dono seekh raha hoon,main,URD
+188,main Facebook aur code dono seekh raha hoon,Facebook,ENG
+188,main Facebook aur code dono seekh raha hoon,aur,URD
+188,main Facebook aur code dono seekh raha hoon,code,ENG
+188,main Facebook aur code dono seekh raha hoon,dono,URD
+188,main Facebook aur code dono seekh raha hoon,seekh,URD
+188,main Facebook aur code dono seekh raha hoon,raha,URD
+188,main Facebook aur code dono seekh raha hoon,hoon,URD
+189,main skill aur account dono seekh raha hoon,main,URD
+189,main skill aur account dono seekh raha hoon,skill,ENG
+189,main skill aur account dono seekh raha hoon,aur,URD
+189,main skill aur account dono seekh raha hoon,account,ENG
+189,main skill aur account dono seekh raha hoon,dono,URD
+189,main skill aur account dono seekh raha hoon,seekh,URD
+189,main skill aur account dono seekh raha hoon,raha,URD
+189,main skill aur account dono seekh raha hoon,hoon,URD
+190,main point aur dataset dono seekh raha hoon,main,URD
+190,main point aur dataset dono seekh raha hoon,point,MIX
+190,main point aur dataset dono seekh raha hoon,aur,URD
+190,main point aur dataset dono seekh raha hoon,dataset,ENG
+190,main point aur dataset dono seekh raha hoon,dono,URD
+190,main point aur dataset dono seekh raha hoon,seekh,URD
+190,main point aur dataset dono seekh raha hoon,raha,URD
+190,main point aur dataset dono seekh raha hoon,hoon,URD
+191,main variable aur number dono seekh raha hoon,main,URD
+191,main variable aur number dono seekh raha hoon,variable,ENG
+191,main variable aur number dono seekh raha hoon,aur,URD
+191,main variable aur number dono seekh raha hoon,number,MIX
+191,main variable aur number dono seekh raha hoon,dono,URD
+191,main variable aur number dono seekh raha hoon,seekh,URD
+191,main variable aur number dono seekh raha hoon,raha,URD
+191,main variable aur number dono seekh raha hoon,hoon,URD
+192,main staff aur website dono seekh raha hoon,main,URD
+192,main staff aur website dono seekh raha hoon,staff,MIX
+192,main staff aur website dono seekh raha hoon,aur,URD
+192,main staff aur website dono seekh raha hoon,website,ENG
+192,main staff aur website dono seekh raha hoon,dono,URD
+192,main staff aur website dono seekh raha hoon,seekh,URD
+192,main staff aur website dono seekh raha hoon,raha,URD
+192,main staff aur website dono seekh raha hoon,hoon,URD
+193,main meeting aur group dono seekh raha hoon,main,URD
+193,main meeting aur group dono seekh raha hoon,meeting,ENG
+193,main meeting aur group dono seekh raha hoon,aur,URD
+193,main meeting aur group dono seekh raha hoon,group,MIX
+193,main meeting aur group dono seekh raha hoon,dono,URD
+193,main meeting aur group dono seekh raha hoon,seekh,URD
+193,main meeting aur group dono seekh raha hoon,raha,URD
+193,main meeting aur group dono seekh raha hoon,hoon,URD
+194,main internet aur machine dono seekh raha hoon,main,URD
+194,main internet aur machine dono seekh raha hoon,internet,ENG
+194,main internet aur machine dono seekh raha hoon,aur,URD
+194,main internet aur machine dono seekh raha hoon,machine,ENG
+194,main internet aur machine dono seekh raha hoon,dono,URD
+194,main internet aur machine dono seekh raha hoon,seekh,URD
+194,main internet aur machine dono seekh raha hoon,raha,URD
+194,main internet aur machine dono seekh raha hoon,hoon,URD
+195,main scholarship aur error dono seekh raha hoon,main,URD
+195,main scholarship aur error dono seekh raha hoon,scholarship,ENG
+195,main scholarship aur error dono seekh raha hoon,aur,URD
+195,main scholarship aur error dono seekh raha hoon,error,ENG
+195,main scholarship aur error dono seekh raha hoon,dono,URD
+195,main scholarship aur error dono seekh raha hoon,seekh,URD
+195,main scholarship aur error dono seekh raha hoon,raha,URD
+195,main scholarship aur error dono seekh raha hoon,hoon,URD
+196,main software aur experience dono seekh raha hoon,main,URD
+196,main software aur experience dono seekh raha hoon,software,ENG
+196,main software aur experience dono seekh raha hoon,aur,URD
+196,main software aur experience dono seekh raha hoon,experience,ENG
+196,main software aur experience dono seekh raha hoon,dono,URD
+196,main software aur experience dono seekh raha hoon,seekh,URD
+196,main software aur experience dono seekh raha hoon,raha,URD
+196,main software aur experience dono seekh raha hoon,hoon,URD
+197,main subject aur artificial dono seekh raha hoon,main,URD
+197,main subject aur artificial dono seekh raha hoon,subject,MIX
+197,main subject aur artificial dono seekh raha hoon,aur,URD
+197,main subject aur artificial dono seekh raha hoon,artificial,ENG
+197,main subject aur artificial dono seekh raha hoon,dono,URD
+197,main subject aur artificial dono seekh raha hoon,seekh,URD
+197,main subject aur artificial dono seekh raha hoon,raha,URD
+197,main subject aur artificial dono seekh raha hoon,hoon,URD
+198,main network aur learning dono seekh raha hoon,main,URD
+198,main network aur learning dono seekh raha hoon,network,ENG
+198,main network aur learning dono seekh raha hoon,aur,URD
+198,main network aur learning dono seekh raha hoon,learning,ENG
+198,main network aur learning dono seekh raha hoon,dono,URD
+198,main network aur learning dono seekh raha hoon,seekh,URD
+198,main network aur learning dono seekh raha hoon,raha,URD
+198,main network aur learning dono seekh raha hoon,hoon,URD
+199,main lecture aur feature dono seekh raha hoon,main,URD
+199,main lecture aur feature dono seekh raha hoon,lecture,ENG
+199,main lecture aur feature dono seekh raha hoon,aur,URD
+199,main lecture aur feature dono seekh raha hoon,feature,ENG
+199,main lecture aur feature dono seekh raha hoon,dono,URD
+199,main lecture aur feature dono seekh raha hoon,seekh,URD
+199,main lecture aur feature dono seekh raha hoon,raha,URD
+199,main lecture aur feature dono seekh raha hoon,hoon,URD
+200,main chapter aur light dono seekh raha hoon,main,URD
+200,main chapter aur light dono seekh raha hoon,chapter,MIX
+200,main chapter aur light dono seekh raha hoon,aur,URD
+200,main chapter aur light dono seekh raha hoon,light,MIX
+200,main chapter aur light dono seekh raha hoon,dono,URD
+200,main chapter aur light dono seekh raha hoon,seekh,URD
+200,main chapter aur light dono seekh raha hoon,raha,URD
+200,main chapter aur light dono seekh raha hoon,hoon,URD
